@@ -1,0 +1,12 @@
+com\java\BookReviews\models\Review.class
+com\java\BookReviews\controllers\BookController.class
+com\java\BookReviews\data\BookRepository.class
+com\java\BookReviews\security\SecurityConfig.class
+com\java\BookReviews\data\UserDetailsRepository.class
+com\java\BookReviews\security\MyUserDetails.class
+com\java\BookReviews\controllers\BookReviewController.class
+com\java\BookReviews\data\ReviewRepository.class
+com\java\BookReviews\security\UserDetailsServicesImpl.class
+com\java\BookReviews\controllers\ReviewController.class
+com\java\BookReviews\BookReviewsApplication.class
+com\java\BookReviews\models\Book.class
